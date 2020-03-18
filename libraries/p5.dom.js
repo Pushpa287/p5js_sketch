@@ -22,7 +22,7 @@
  * @module p5.dom
  * @submodule p5.dom
  * @for p5.dom
- * @main
+ * @main JUST
  */
 
 (function (root, factory) {
